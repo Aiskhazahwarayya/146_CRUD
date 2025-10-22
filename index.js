@@ -21,3 +21,5 @@ const db = mysql.createConnection({
     password: '@Aiszr131004',
     database: 'mahasiswa'
 });
+
+
